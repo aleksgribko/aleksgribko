@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksgribko&count_private=true&show_icons=true&theme=gotham)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=aleksgribko&count_private=true&show_icons=true&theme=gotham)
 
 <!--
 **aleksgribko/aleksgribko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
