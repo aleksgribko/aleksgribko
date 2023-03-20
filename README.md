@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=aleksgribko&langs_count=8&layout=compact&hide=ryby,objectivec,java&count_private=true&show_icons=true&theme=gotham)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=aleksgribko&langs_count=8&layout=compact&hide=ryby,starlark,objective-c,java&count_private=true&show_icons=true&theme=gotham)
 
 <!--
 **aleksgribko/aleksgribko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
